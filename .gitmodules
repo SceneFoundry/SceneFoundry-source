@@ -1,0 +1,12 @@
+[submodule "SceneFoundry"]
+	path = SceneFoundry
+	url = ../SceneFoundry
+	branch = main
+[submodule "app"]
+	path = app
+	url = ../../ca2/app
+	branch = main
+[submodule "app-graphics3d"]
+	path = app-graphics3d
+	url = ../../ca2/app-graphics3d
+	branch = main
