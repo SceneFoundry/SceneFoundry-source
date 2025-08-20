@@ -80,7 +80,7 @@ add_subdirectory(SceneFoundry/gpu_sandbox)
 #add_subdirectory(external)
 
 # Core targets
-add_subdirectory(SceneFoundry/sandbox_interfaces)
+add_subdirectory(SceneFoundry/sandbox)
 add_subdirectory(SceneFoundry/sandbox_renderer)
 add_subdirectory(SceneFoundry/sandbox_engine)
 add_subdirectory(SceneFoundry/sandbox_game)
