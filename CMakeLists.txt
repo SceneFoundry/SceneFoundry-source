@@ -24,6 +24,7 @@ add_subdirectory(app-graphics3d/graphics3d_khronos)
 add_subdirectory(app-graphics3d/graphics3d_opengl)
 add_subdirectory(app-graphics3d/graphics3d_vulkan)
 add_subdirectory(app-graphics3d/continuum)
+add_subdirectory(app-graphics3d/hello_space)
 add_subdirectory(SceneFoundry/pbr-renderer)
 add_subdirectory(SceneFoundry/SceneFoundry)
 
